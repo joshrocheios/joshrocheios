@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshrocheios
 - 👀 I’m interested in ... iOS/iPad/MacOS Development
-- 🌱 I’m currently learning ... UIKit, Swift
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Swift and SwiftUI
+- 💞️ I’m looking to collaborate on SwiftUI Projects
 - 📫 How to reach me ... https://www.linkedin.com/in/joshua-roche-231358134/
 
 <!---
