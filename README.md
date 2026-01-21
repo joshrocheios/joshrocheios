@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshrocheios
-- 👀 I’m interested in ... Python, Django Development and Go
+- 👀 I’m interested in ... Frontend ReactJS and dabbling in Go for backend :)
 - 📫 How to reach me ... https://www.linkedin.com/in/joshua-roche-231358134/
 
 <!---
