@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshrocheios
-- 👀 I’m interested in ... Frontend ReactJS and dabbling in Go for backend :)
+- 👀 I’m interested in ... Python, Data and Math
 - 📫 How to reach me ... https://www.linkedin.com/in/joshua-roche-231358134/
 
 <!---
