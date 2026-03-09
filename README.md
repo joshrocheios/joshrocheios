@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshrocheios
-- 👀 I’m interested in ... Javascript, Typescript and Math!
+- 👀 I’m interested in ... Python and Typescript projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/joshua-roche-231358134/
 
 <!---
